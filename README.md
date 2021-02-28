@@ -1,4 +1,6 @@
 # CodewarsKatas
-![alt text](https://www.codewars.com/users/max.freedman/badges/micro)
+### Table of Contents
+
+![alt text](https://www.codewars.com/users/max.freedman/badges/large)
 #
 Мой профиль : https://www.codewars.com/users/max.freedman
