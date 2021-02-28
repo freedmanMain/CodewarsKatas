@@ -17,5 +17,6 @@
 
 ### Global Index
   This index will help you find all katas ordered alphabetically with a link to the kata folder.
+  - 8 Kyu https://github.com/freedmanMain/CodewarsKatas/tree/main/8Kyu
   - 7 Kyu https://github.com/freedmanMain/CodewarsKatas/tree/main/7kyu
   - 6 Kyu https://github.com/freedmanMain/CodewarsKatas/tree/main/6kyu
