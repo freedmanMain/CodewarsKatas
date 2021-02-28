@@ -20,3 +20,4 @@
   - 8 Kyu https://github.com/freedmanMain/CodewarsKatas/tree/main/8Kyu
   - 7 Kyu https://github.com/freedmanMain/CodewarsKatas/tree/main/7kyu
   - 6 Kyu https://github.com/freedmanMain/CodewarsKatas/tree/main/6kyu
+  - 5 Kyu https://github.com/freedmanMain/CodewarsKatas/tree/main/5Kyu
